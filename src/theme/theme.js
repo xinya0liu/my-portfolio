@@ -14,7 +14,7 @@ export const pinkThemeLight = {
     secondary: '#FDEFF4', // 淡粉色，搭配色，温暖、亲和
     secondary70: '#FDEFF4B3', // 不透明度70%的淡粉色
     secondary50: '#FDEFF480', // 不透明度50%的淡粉色
-    tertiary: '#333333', // 深灰色，文本色
+    tertiary: '#000000', // 黑色，文本色
     tertiary80: '#333333CC', // 不透明度80%的深灰色
     tertiary70: '#333333B3', // 不透明度70%的深灰色
     tertiary50: '#33333380', // 不透明度50%的深灰色
