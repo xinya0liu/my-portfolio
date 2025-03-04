@@ -9,8 +9,8 @@ export const experienceData = [
     },
       {
         id: 2,
-        company: 'Luxottica Global Service Co.Ltd',
-        jobtitle: 'System Engineer',
+        company: 'EssilorLuxottica, China Manufacturing Facility',
+        jobtitle: 'Junior Software Developer',
         startYear: '2016',
         endYear: '2018'
     }
